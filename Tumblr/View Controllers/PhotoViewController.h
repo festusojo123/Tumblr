@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PhotoViewController.h
 //  Tumblr
 //
 //  Created by festusojo on 6/27/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface PhotoViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
